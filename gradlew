@@ -1,0 +1,1 @@
+Android/gradlew "$1"
